@@ -45,6 +45,7 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Scripts\Game Scripts\DestroyOnContact.cs" />
      <Compile Include="Assets\Scripts\Game Scripts\GameManager.cs" />
      <Compile Include="Assets\Scripts\Game Scripts\MenuButton.cs" />
      <Compile Include="Assets\Scripts\Game Scripts\RetryButton.cs" />
